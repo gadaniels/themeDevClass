@@ -43,6 +43,7 @@ More about configuration:
    functionality:
    http://drupal.org/project/modules
  * See also: "Developing for Drupal" for writing your own modules, below.
+ * Use Drush
 
 INSTALLATION PROFILES
 ---------------------
