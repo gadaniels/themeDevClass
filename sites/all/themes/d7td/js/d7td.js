@@ -4,7 +4,7 @@
   Drupal.behaviors.d7td_wonky = {
     attach: function() {
       $(document).ready(function() { //  When the document is ready
-	$.fool('wonky'); 
+	//$.fool('wonky'); 
       });
     }
   }

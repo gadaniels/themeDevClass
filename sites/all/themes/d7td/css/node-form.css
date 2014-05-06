@@ -1,0 +1,31 @@
+
+
+.node-form-left-side {
+    float:left;
+    width:65%;
+    
+   
+}
+.node-form-right-side {
+    float:right;
+    width:35%;
+  
+   
+}
+.node-form-right-side fieldset input[type=text] {
+    width: 90%;
+}
+.node-form-right-side  input[type=text] {
+    width: 90%;
+}
+.form-submit {
+    background: #1659ac;
+    font-family: Arial;
+    color: #fff;
+}
+.node-form-right-side-inner {
+    margin:5px;
+}
+.node-form-left-side-inner {
+    margin:5px;
+}

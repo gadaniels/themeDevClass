@@ -1,5 +1,5 @@
 html, body {
-  background: #eeeeee;
+  background: #F8F5F1;
   color: #433A2D;
 }
 a {
@@ -18,12 +18,46 @@ a {
   color: #fff;
 }
 #content {
-  background: #efefef;
+  background: #F6F7F9;
 }
 #main {
-  background: #ccc;
+  background: #DDD0C7;
   border: 1px solid #837A6D;
 }
 body {
   background-image: url(../images/bg-texture.png);
+}
+#postscript {
+  background: #4B4233;
+  color: #fff;
+}
+#postscript a {
+  color: #fff;
+}
+#postscript table tr {
+  background: transparent;
+}
+
+/** Lesson 3 **/
+.custom-body-summary {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+h2.summary-title {
+  margin-bottom: 0;
+}
+
+table tr td,
+table tr th {
+  padding: 4px 10px;
+}
+
+.view-user-list span.user-active {
+  color: green;
+}
+.view-user-list span.user-blocked {
+  color: red;
+}
+.view-user-list tr.user-blocked {
+  background: #fcc;
 }

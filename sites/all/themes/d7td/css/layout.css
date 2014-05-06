@@ -6,6 +6,7 @@
   width: 960px;
   margin-left: auto;
   margin-right: auto;
+  
 }
 #content,
 #sidebar-first {
@@ -14,6 +15,7 @@
 #sidebar-first {
   width: 240px;
 }
+
 #content {
   width: 720px;
 }
@@ -23,9 +25,11 @@
 }
 #content {
   width: 480px;
+ 
 }
 body.one-sidebar #content {
   width: 720px;
+   padding: 5px, 5px, 5px, 5px;
 }
 body.two-sidebars #content {
   width: 480px;
